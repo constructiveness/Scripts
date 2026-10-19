@@ -8,3 +8,4 @@
 - Steal or Die - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/SOD.lua)
 - Aisles of the Locust - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/AOTL.lua)
 - Untitled Tag Game - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/UTG.lua)
+- Evade - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Evade.lua)
