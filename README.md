@@ -9,3 +9,4 @@
 - Aisles of the Locust - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/AOTL.lua)
 - Untitled Tag Game - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/UTG.lua)
 - Evade - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Evade.lua)
+- Robeats - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Robeats.lua)
