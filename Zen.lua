@@ -1,6 +1,6 @@
 local CONFIG = {
 
-    TeleportInterval = 0.05,
+    TeleportInterval = 0.1,
     TeleportPastMin = 5,
     TeleportPastMax = 10,
 
