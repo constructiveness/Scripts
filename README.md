@@ -11,3 +11,4 @@
 - Evade - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Evade.lua)
 - Robeats - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Robeats.lua)
 - Grace (Only Zen mode) - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Zen.lua)
+- Grace (Normal mode) - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Grace.lua)
