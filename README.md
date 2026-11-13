@@ -7,9 +7,12 @@
 
 - Steal or Die - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/SOD.lua)
 - Aisles of the Locust - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/AOTL.lua)
-- Untitled Tag Game - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/UTG.lua) -- needs an update
-- Evade - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Evade.lua) -- needs an update
 - Robeats - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Robeats.lua)
 - Grace (Only Zen mode) - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Zen.lua)
 - Grace (Normal mode) - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Grace.lua)
-- Saber Simulator [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Saber.lua)
+
+## Update Log:
+# removed:
+- saber simulator -- (thought the script was extremely ugly and not worth posting)
+- untitled tag game -- (broke entirely and I can't be asked right now since the game is boring)
+- evade -- updated something and script entirely broke
