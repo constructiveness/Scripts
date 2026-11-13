@@ -11,6 +11,8 @@
 - Grace (Only Zen mode) - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Zen.lua)
 - Grace (Normal mode) - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Grace.lua)
 
+P.S. Grace Normal mode script also works with modifiers besides water drop rooms and might die in rooms with pits, I can't be asked to add support for these rooms entirely at all but yes +99 extra is possible and +99 covets is possible with this script.
+
 ## Update Log:
 ### removed:
 - saber simulator -- (thought the script was extremely ugly and not worth posting)
