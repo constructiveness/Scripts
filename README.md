@@ -12,7 +12,7 @@
 - Grace (Normal mode) - [Script](https://raw.githubusercontent.com/constructiveness/Scripts/main/Grace.lua)
 
 ## Update Log:
-# removed:
+### removed:
 - saber simulator -- (thought the script was extremely ugly and not worth posting)
 - untitled tag game -- (broke entirely and I can't be asked right now since the game is boring)
 - evade -- updated something and script entirely broke
