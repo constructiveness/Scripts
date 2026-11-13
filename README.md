@@ -1,6 +1,6 @@
-<h1 align="center">ScriptHub</h1>
+<h1 align="center">Luau Scripts</h1>
 <p align="center">
-  My own personal repository for scripts that I make for games, Every script is fully open sourced with no key system.
+  Personal repo for Roblox games I make scripts for out of pure boredom.
 </p>
 
 ## Supported Games:
