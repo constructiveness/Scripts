@@ -1,6 +1,6 @@
 local CONFIG = {
 
-    TeleportInterval = 0.1,
+    TeleportInterval = 0.1, -- do not set lower then this or else you risk voiding yourself and breaking the tp entirely, this is the lowest safe tp interval and its still 100 rooms in 10 seconds
     TeleportPastMin = 5,
     TeleportPastMax = 10,
 
